@@ -474,6 +474,9 @@ img {
     .footer-bottom {
         flex-direction: column;
     }
+    .footer-mail {
+        font-size: 20px;
+    }
 }
 
 @media (max-width: 375px) {
